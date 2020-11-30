@@ -1,0 +1,12 @@
+name: AppHw3
+title: AppHw3
+username:
+account: tobinken
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3321609
+bundleId: 3921103
+url: https://tobinken.shinyapps.io/AppHw3/
+when: 1606705690.87741
+asMultiple: FALSE
+asStatic: FALSE
